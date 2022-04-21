@@ -6,7 +6,7 @@ last_modified_at: 2019-08-20T21:36:18-04:00
 toc: true
 ---
 
-## Install the theme
+## Install the theme - Testing
 
 **1.** For a **new site**, install the `minimal-mistakes-jekyll` gem, remote theme, or fork the Minimal Mistakes repo on GitHub following the steps outlined in the [*Quick-Start Guide*]({{ "/docs/quick-start-guide/" | relative_url }}).
 
